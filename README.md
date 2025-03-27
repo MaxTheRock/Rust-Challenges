@@ -151,17 +151,17 @@ Write an algorithm that:
 
 ---
 
-### Challenge 10
+### Challenge 10  ✅
 The program asks the user to **input** the number of letters in the alphabet. The program must then **output** whether they got it correct or incorrect.
 
 ---
 
-### Challenge 11
+### Challenge 11  ✅
 The program asks the user to **input** two numbers. It will then **output** the larger of these two numbers.
 
 ---
 
-### Challenge 12
+### Challenge 12  ✅
 Write an algorithm that:
 - Generates a random number between 1 and 10.
 - Asks the user to guess this number.
