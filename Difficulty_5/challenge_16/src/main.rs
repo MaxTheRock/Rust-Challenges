@@ -1,16 +1,17 @@
-use std::io::{self, Write};
-
 fn main() {
-    let _holiday_time: i8 = 28;
-    let choice: String = input("Are you working full time: ");
+    let time: i8 = int(&input("How long on average do you spend watching TV: "));
 
-    let full_time: bool = if choice.to_lowercase() == "yes" {true} else {false};
-    let work_days: i8 = int(&input("How many days do you work a week: "));
-    
-    
+    if time < 2 {
+        println!("That should be ok.");
+    } else if time <= 4 {
+        println!("That will rot your brain");
+    } else {
+        println!("That is too much TV")
+    };
 }
 
 fn input(print_text: &str) -> String {
+    use std::io::{self, Write};
     print!("{}", print_text);
     io::stdout().flush().unwrap();
     let mut input = String::new();

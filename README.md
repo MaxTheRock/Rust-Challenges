@@ -180,7 +180,7 @@ The company gives each employee 28 days of holiday each year. Holidays are award
 ## Difficulty 5
 ---
 
-### Challenge 14
+### Challenge 14  ✅
 Write an algorithm that:
 - Asks the user to input the traffic light colour.
 - If the traffic light colour is green, outputs "Go."
@@ -189,7 +189,7 @@ Write an algorithm that:
 
 ---
 
-### Challenge 15
+### Challenge 15  ✅
 Write a program that:
 - Asks the user to name one of the Olympic Values (Respect, Excellence, and Friendship).
 - If they correctly name one, output "That’s correct."
@@ -197,7 +197,7 @@ Write a program that:
 
 ---
 
-### Challenge 16
+### Challenge 16  ✅
 Write an algorithm that:
 - Asks the user how long on average they spend watching TV each day.
 - If it is less than 2 hours, outputs "That should be ok."
@@ -206,13 +206,13 @@ Write an algorithm that:
 
 ---
 
-### Challenge 17
+### Challenge 17  ✅
 Write an algorithm that:
 - Outputs all numbers between 1 and 10 only.
 
 ---
 
-### Challenge 18
+### Challenge 18  ✅
 Write an algorithm that:
 - Outputs all odd numbers between 1 and 20 only.
 
