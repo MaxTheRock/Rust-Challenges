@@ -297,23 +297,23 @@ Write an algorithm to calculate the amount of turf needed for a rectangular gard
 
 ---
 
-### Challenge 29
+### Challenge 29  ✅
 Write an algorithm that:
 - Calculates wages based on either £2 per teddy bear made or £5 per hour worked, whichever is larger.
 
 ---
 
-### Challenge 30
+### Challenge 30  ✅
 Write an algorithm to determine if a triangle is isosceles based on the lengths of its sides.
 
 ---
 
-### Challenge 31
+### Challenge 31  ✅
 Write an algorithm to calculate the mean weight of fruits based on user input.
 
 ---
 
-### Challenge 32
+### Challenge 32  ✅
 Write an algorithm to compare bank accounts based on interest rates and calculate the total savings.
 
 ---
