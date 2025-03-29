@@ -170,14 +170,14 @@ Write an algorithm that:
 
 ---
 
-### Challenge 13
+### Challenge 13  ✅
 A company calculates holiday allowance for employees.  
 The company gives each employee 28 days of holiday each year. Holidays are awarded based on the following rules:
 1. Full-time employees who work 5 days a week get 28 days of holiday a year.
 2. Part-time employees get a proportion of holiday allowance based on how many days they work (e.g., an employee who works 1 day a week would only get 1/5th of the holidays allowed).
 
 ---
-## Difficulty 5
+## Difficulty 5  ✅
 ---
 
 ### Challenge 14  ✅
@@ -218,22 +218,22 @@ Write an algorithm that:
 
 ---
 
-### Challenge 19
+### Challenge 19  ✅
 Write an algorithm that:
 - Asks the user to input a number and repeat this until they guess the number 7.
 - Congratulate the user with a "Well Done" message when they guess correctly.
 
 ---
-## Pseudocode only challenges
+## Pseudocode only challenges  ✅
 ---
 
-### Challenge 20
+### Challenge 20  ✅
 MyHotPizza company has developed a new loyalty reward system for customers. Customers are automatically sent a reward card if they order more than 20 pizzas in a year.  
 Write an algorithm that goes through the customer orders, and where needed, sends customers a loyalty card if they do not already have one. If they have not ordered enough pizzas, then it removes them from the card list.
 
 ---
 
-### Challenge 21
+### Challenge 21  ✅
 A local swimming centre offers the following discounts:
 1. Members aged between 13 and 15 receive a 30% discount.
 2. Members aged between 16 and 17 receive a 20% discount.
@@ -243,7 +243,7 @@ Create an algorithm using pseudocode for the above actions.
 
 ---
 
-### Challenge 22
+### Challenge 22  ✅
 Write an algorithm that:
 - Asks the user to input how many marks they got on a test.
 - Converts this to a grade between 1 to 9 using a predefined table.
@@ -251,17 +251,17 @@ Write an algorithm that:
 
 ---
 
-### Challenge 23
+### Challenge 23  ✅
 Create an algorithm that will:
 - Allow the user to input how much money they want to change to coins.
 - Select which coin they want to convert the money into (£1, 50p, 20p, 10p, 5p, 2p, 1p).
 - Calculate how many of each coin will be given.
 
 ---
-## No help given
+## No help given  ✅
 ---
 
-### Challenge 24
+### Challenge 24  ✅
 Create an algorithm that:
 - Randomly generates the computer status "rock," "paper," or "scissors."
 - Asks the user to input their status "rock," "paper," or "scissors."
@@ -269,20 +269,20 @@ Create an algorithm that:
 
 ---
 
-### Challenge 25
+### Challenge 25  ✅
 SpeedyClub Runners is a local sports club that organizes a 5k race every year.  
 Produce an algorithm that counts the number of runners in each age category for the race.
 
 ---
 
-### Challenge 26
+### Challenge 26  ✅
 Write an algorithm to calculate and output the human equivalent of a dog's age using the following method:
 - If the dog's age is 2 or less, the human equivalent is 12 times the age.
 - If the dog's age is more than 2, the human equivalent is 24 for the first 2 years, plus 6 for every additional year.
 
 ---
 
-### Challenge 27
+### Challenge 27  ✅
 Write an algorithm to calculate the cost of a day-time taxi journey:
 - The cost is £3 for the first kilometre and £2 for every kilometre after that.
 - If there are five or more passengers, an extra 50% is added to the charge.
@@ -291,7 +291,7 @@ Write an algorithm to calculate the cost of a day-time taxi journey:
 ## Difficulty 6
 ---
 
-### Challenge 28
+### Challenge 28  ✅
 Write an algorithm to calculate the amount of turf needed for a rectangular garden with a circular flower bed in the middle.  
 **Tip:** Circle area = π × Radius².
 
